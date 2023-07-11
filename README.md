@@ -1,7 +1,7 @@
 
 # Bulky Books Website.
 
-#### Immerse yourself in a captivating virtual journey as you navigate through this meticulously designed code repository.
+#### Whether you are a book enthusiast looking for an efficient way to manage your personal collection or a librarian seeking a robust solution for a library system, Bulky Books is an ideal repository that provides a comprehensive and user-friendly book management experience.
 
 <br />
 
